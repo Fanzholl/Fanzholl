@@ -1,4 +1,4 @@
-### <center>Hello, friends!👋</center>
+### 👋 Hello, friends! 👋
 ### 🌱 I’m currently learning React.js and Node.js.
 ### 🤔 I’m looking for help with this frameworks.
 ### ⚡ Fun fact: I passed Dark Souls 3 without raising the level of the character.
