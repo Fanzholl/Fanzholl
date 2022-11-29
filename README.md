@@ -1,5 +1,8 @@
-### Hi there 👋
-🌱 I’m currently learning ...
+### Hello, friends! 👋
+🌱 I’m currently learning React.js and Node.js.
+🤔 I’m looking for help with this frameworks.
+⚡ Fun fact: I passed Dark Souls 3 without raising the level of the character.
+📫 How to reach me: fanzholl@yandex.ru
 
 <!--
 **Fanzholl/Fanzholl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
