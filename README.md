@@ -10,8 +10,6 @@
 
 ### <a href='https://github.com/Fanzholl/Shablonizator'>Shablonizator</a> – генератор HTML-шаблонов, написанный на JavaScript, для упрощения процесса веб-разработки.
 
-### <a href='https://github.com/Fanzholl/SalaryCalculation'>SalaryCalculation</a> – приложение для расчёта зарплат, написанное на JavaScript.
-
 ### Также приглашаю вас ознакомиться с моим <a href='https://github.com/Fanzholl/resume'>визуализированным резюме</a>, где можно найти больше информации о моих проектах.
 
 ### Готов выполнить тестовое задание для демонстрации своих навыков.
