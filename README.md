@@ -12,8 +12,6 @@
 
 ### <a href='https://github.com/Fanzholl/SalaryCalculation'>SalaryCalculation</a> – приложение для расчёта зарплат, написанное на JavaScript.
 
-### <a href='https://github.com/Fanzholl/Chat-WebSocket-'>Chat-WebSocket</a> – реализация чата с WebSocket на Node.js и JavaScript, обеспечивающая работу с реальным временем.
-
 ### Также приглашаю вас ознакомиться с моим <a href='https://github.com/Fanzholl/resume'>визуализированным резюме</a>, где можно найти больше информации о моих проектах.
 
 ### Готов выполнить тестовое задание для демонстрации своих навыков.
