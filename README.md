@@ -2,6 +2,8 @@
 
 ### Некоторые из моих ключевых проектов:
 
+### <a href='https://github.com/Fanzholl/White_Inc_Bomber/releases/tag/latest'>White_Inc_Bomber</a> - мощный и гибкий инструмент для отправки SMS через различные API-сервисы.
+
 ### <a href='https://github.com/Fanzholl/ani-libri-m'>ani-libri-m</a> – сервис для поиска аниме, написанный на TypeScript с использованием React.
 
 ### <a href='https://github.com/Fanzholl/Punctum-Space'>Punctum-Space</a> – личная социальная сеть, разработанная с нуля на JavaScript и Node.js с использованием React, с поддержкой взаимодействий в реальном времени.
