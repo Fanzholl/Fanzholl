@@ -107,6 +107,6 @@
 ║                      ПЕЧАТЬ СМОТРИТЕЛЯ                ║
 ║  ДОСТУП К СВЯЗИ:                                      ║
 ║   - ПОЧТА     → whiteparser@icloud.com                ║
-║   - TELEGRAM  → [blacksunder](https://t.me/blacksunder)                 ║
+║   - TELEGRAM  → @blacksunder                          ║
 ╚═══════════════════════════════════════════════════════╝
 
